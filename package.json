@@ -1,0 +1,27 @@
+{
+  "name": "complete-me",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tylerjhevia/TH-Complete-Me.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tylerjhevia/TH-Complete-Me/issues"
+  },
+  "homepage": "https://github.com/tylerjhevia/TH-Complete-Me#readme",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "chai": "^4.1.0",
+    "mocha": "^3.4.2"
+  }
+}
